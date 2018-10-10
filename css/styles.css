@@ -14,3 +14,19 @@ h2 {
 h3 {
   font-family: monospace;
 }
+
+p.about {
+  color: red;
+  font-style: italic;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+}
+
+.important {
+  color: yellow;
+  font-style: italic;
+}
